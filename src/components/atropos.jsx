@@ -4,7 +4,6 @@ import mountains from '../assets/atropos-mountains.svg';
 import forestBack from '../assets/atropos-forest-back.svg';
 import forestMid from '../assets/atropos-forest-mid.svg';
 import forestFront from '../assets/atropos-forest-front.svg';
-import logoEn from '../assets/atropos-logo-en.svg';
 import applicantName from '../assets/applicant-name.svg';
 
 function AtroposCard() {
